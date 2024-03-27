@@ -1,0 +1,2 @@
+# ok so i haven't made it yet but this is gonna prepare some stuffo, ask for username and stuff and all that
+# prolly not gonna use py for this and just use like V or smth but nobody knows how to compile V fr fr, maybe lua or sticking with java prolly

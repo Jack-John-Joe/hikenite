@@ -1,0 +1,4 @@
+# some info - blank spaces will prob be autofilled by firstrun
+ver: 0.1.0
+OS:
+capability: # this would be useful for maps, they can like set adjustments for optimization on older devices (obv can't do tha tautomatically fr fr) 
